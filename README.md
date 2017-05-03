@@ -1,2 +1,2 @@
 # hello-world
-my description
+Hello world! I have arrived. I think :)
